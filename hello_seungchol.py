@@ -1,1 +1,0 @@
-print("hello, I'm Seung Chol")
